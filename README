@@ -1,0 +1,2 @@
+# naive_sw
+Naive Python implementation of the Smith-Waterman algorithm with affine gap scoring.
